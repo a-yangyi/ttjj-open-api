@@ -49,6 +49,10 @@ def post(url, data=None, json=None, **kwargs):
     return request("post", url, data=data, json=json, **kwargs)
 
 
+"""
+docs: https://kouchao.github.io/TiantianFundApi/apis/#%E8%8E%B7%E5%8F%96%E5%9F%BA%E9%87%91%E5%87%80%E5%80%BC
+git: https://github.com/a-yangyi/TiantianFundApi
+"""
 def post_ttjj(url, data=None, json=None, **kwargs):
     kwargs.setdefault('headers', tt_headers)
     data.update(baseData)
