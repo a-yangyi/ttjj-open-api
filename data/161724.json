@@ -1,0 +1,254 @@
+{
+    "data": [
+        {
+            "FSRQ": "2025-12-22",
+            "DWJZ": "1.9786",
+            "JZZZL": "-0.1",
+            "LJJZ": "1.3986",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2025-12-23",
+            "DWJZ": "1.9651",
+            "JZZZL": "-0.68",
+            "LJJZ": "1.3896",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2025-12-24",
+            "DWJZ": "1.9655",
+            "JZZZL": "0.02",
+            "LJJZ": "1.3899",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2025-12-25",
+            "DWJZ": "1.9649",
+            "JZZZL": "-0.03",
+            "LJJZ": "1.3895",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2025-12-26",
+            "DWJZ": "1.9723",
+            "JZZZL": "0.38",
+            "LJJZ": "1.3944",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2025-12-29",
+            "DWJZ": "1.9699",
+            "JZZZL": "-0.12",
+            "LJJZ": "1.3928",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2025-12-30",
+            "DWJZ": "1.9558",
+            "JZZZL": "-0.72",
+            "LJJZ": "1.3834",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2025-12-31",
+            "DWJZ": "1.9424",
+            "JZZZL": "-0.69",
+            "LJJZ": "1.3745",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-05",
+            "DWJZ": "1.9508",
+            "JZZZL": "0.43",
+            "LJJZ": "1.3801",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-06",
+            "DWJZ": "1.9807",
+            "JZZZL": "1.53",
+            "LJJZ": "1.4",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-07",
+            "DWJZ": "2.0573",
+            "JZZZL": "3.87",
+            "LJJZ": "1.451",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-08",
+            "DWJZ": "2.0542",
+            "JZZZL": "-0.15",
+            "LJJZ": "1.4489",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-09",
+            "DWJZ": "2.058",
+            "JZZZL": "0.18",
+            "LJJZ": "1.4514",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-12",
+            "DWJZ": "2.0623",
+            "JZZZL": "0.21",
+            "LJJZ": "1.4543",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-13",
+            "DWJZ": "2.0401",
+            "JZZZL": "-1.08",
+            "LJJZ": "1.4395",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-14",
+            "DWJZ": "2.0227",
+            "JZZZL": "-0.85",
+            "LJJZ": "1.4279",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-15",
+            "DWJZ": "2.0064",
+            "JZZZL": "-0.81",
+            "LJJZ": "1.4171",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-16",
+            "DWJZ": "1.9864",
+            "JZZZL": "-1.0",
+            "LJJZ": "1.4038",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-19",
+            "DWJZ": "2.0166",
+            "JZZZL": "1.52",
+            "LJJZ": "1.4239",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        },
+        {
+            "FSRQ": "2026-01-20",
+            "DWJZ": "2.0408",
+            "JZZZL": "1.2",
+            "LJJZ": "1.44",
+            "NAVTYPE": "1",
+            "RATE": "--"
+        }
+    ],
+    "errorCode": 0,
+    "firstError": null,
+    "success": true,
+    "hasWrongToken": null,
+    "totalCount": 20,
+    "expansion": [
+        {
+            "STYPE": "2",
+            "BONUS": null,
+            "NET": null,
+            "FSRQ": "2025-11-13"
+        },
+        {
+            "STYPE": "2",
+            "BONUS": null,
+            "NET": null,
+            "FSRQ": "2021-12-02"
+        },
+        {
+            "STYPE": "2",
+            "BONUS": null,
+            "NET": null,
+            "FSRQ": "2017-09-05"
+        },
+        {
+            "STYPE": "2",
+            "BONUS": null,
+            "NET": null,
+            "FSRQ": "2016-12-03"
+        },
+        {
+            "STYPE": "2",
+            "BONUS": null,
+            "NET": null,
+            "FSRQ": "2016-08-12"
+        },
+        {
+            "STYPE": "11",
+            "BONUS": null,
+            "NET": {
+                "FSRQ": "2026-01-12",
+                "DWJZ": "2.0623",
+                "JZZZL": "0.21",
+                "LJJZ": "1.4543",
+                "NAVTYPE": "1",
+                "RATE": "--"
+            },
+            "FSRQ": "2026-01-12"
+        },
+        {
+            "STYPE": "12",
+            "BONUS": null,
+            "NET": {
+                "FSRQ": "2025-12-31",
+                "DWJZ": "1.9424",
+                "JZZZL": "-0.69",
+                "LJJZ": "1.3745",
+                "NAVTYPE": "1",
+                "RATE": "--"
+            },
+            "FSRQ": "2025-12-31"
+        },
+        {
+            "STYPE": "21",
+            "BONUS": null,
+            "NET": {
+                "FSRQ": "2026-01-12",
+                "DWJZ": "2.0623",
+                "JZZZL": "0.21",
+                "LJJZ": "1.4543",
+                "NAVTYPE": "1",
+                "RATE": "--"
+            },
+            "FSRQ": "2026-01-12"
+        },
+        {
+            "STYPE": "22",
+            "BONUS": null,
+            "NET": {
+                "FSRQ": "2025-12-31",
+                "DWJZ": "1.9424",
+                "JZZZL": "-0.69",
+                "LJJZ": "1.3745",
+                "NAVTYPE": "1",
+                "RATE": "--"
+            },
+            "FSRQ": "2025-12-31"
+        }
+    ],
+    "jf": "ali"
+}
